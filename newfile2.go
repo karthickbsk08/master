@@ -11,4 +11,9 @@ func NewMEthod2() {
 	log.Println("New file changes")
 	log.Println("New file changes")
 	log.Println("New file changes")
+
+	log.Println("New file changes stash")
+	log.Println("New file changes stash")
+	log.Println("New file changes stash")
+
 }
