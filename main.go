@@ -12,4 +12,7 @@ func main() {
 	log.Println("IT is changed")
 
 	log.Println("To find Difference")
+
+	log.Println("To find  in commit 3")
+
 }
